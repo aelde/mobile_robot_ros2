@@ -7,5 +7,4 @@
 -   ncoder 330 ppr
 - RPLiDAR S1
 - esp32
-
-![Uploading 9_12_2023_esp32_duo30_encoder_ultrasonic.png…]()
+<img width="656" alt="9_12_2023_esp32_duo30_encoder_ultrasonic" src="https://github.com/aelde/mobile_robot_ros2/assets/79216582/fa855ca9-e175-4630-9e24-9832cd056b60">
